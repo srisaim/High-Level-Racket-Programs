@@ -3,7 +3,8 @@ The Structure of Higher Level Languages:
 
 CS450 The Structure of Higher Level Languages was an in-depth course designed to teach a thorough understanding of the semantics of both functional and object-oriented programming paradigms. This course aimed to build foundational knowledge from the ground up, making it accessible even to those without prior experience in functional programming.
 
-General Overview:
+
+# General Overview
 
 Understanding Functional Programming:
   - Gain an in-depth understanding of the principles and practices of functional programming.
